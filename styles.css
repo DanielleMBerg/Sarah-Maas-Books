@@ -1,0 +1,26 @@
+
+body {
+  background-color:lightpink;
+}
+
+.card {
+  background-color:aqua;
+  border: black solid 5px;
+  width: 1050px;
+}
+
+h1{
+  padding-bottom: 25px;
+  padding-top: 25px;
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+img {
+width: 300px;
+}
+
